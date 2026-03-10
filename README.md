@@ -181,6 +181,10 @@ If you encounter issues:
 3. Try restarting both the app and server
 4. Check your network connection
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 **Enjoy using your phone as a PC microphone and speaker!** 🎤🔊
